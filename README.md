@@ -1,5 +1,6 @@
 ![API GET Fetch](https://github.com/yash1880/api-hunter/blob/0400b05d8ea41b64f9a9f29c38626dad2d18ffdc/api%20GET%20(Fetch).png)
 ![API GET Axios](https://github.com/yash1880/api-hunter/blob/21dd37b89729c2343fbee6ecd0263106cf5aa063/api%20GET%20(Axios).png)
+![API POST Method](https://github.com/yash1880/api-hunter/blob/949d928d121c191721531a63a54a2e96cf881b2e/api%20POST%20method.png)
 # 🚀 API Hunter
 
 **API Hunter** is a professional React-based web application designed to demonstrate state management for asynchronous API interactions. It provides a seamless interface for users to execute `GET` and `POST` requests, offering a side-by-side comparison of the **native Fetch API** and the **Axios library**.
